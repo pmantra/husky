@@ -1,0 +1,44 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+bank-account/account.cmd/.mvn
+bank-account/account.cmd/.mvn/wrapper/MavenWrapperDownloader.java
+bank-account/account.cmd/.mvn/wrapper/maven-wrapper.jar
+bank-account/account.cmd/.mvn/wrapper/maven-wrapper.properties
+bank-account/account.cmd/mvnw
+bank-account/account.cmd/mvnw.cmd
+bank-account/account.common/.mvn/wrapper/MavenWrapperDownloader.java
+bank-account/account.common/.mvn/wrapper/maven-wrapper.jar
+bank-account/account.common/.mvn/wrapper/maven-wrapper.properties
+bank-account/account.common/mvnw
+bank-account/account.common/mvnw.cmd
+bank-account/account.query/.mvn/wrapper/MavenWrapperDownloader.java
+bank-account/account.query/.mvn/wrapper/maven-wrapper.jar
+bank-account/account.query/.mvn/wrapper/maven-wrapper.properties
+bank-account/account.query/mvnw
+bank-account/account.query/mvnw.cmd
+cqrs-es/cqrs.core/.mvn/wrapper/MavenWrapperDownloader.java
+cqrs-es/cqrs.core/.mvn/wrapper/maven-wrapper.jar
+cqrs-es/cqrs.core/.mvn/wrapper/maven-wrapper.properties
+cqrs-es/cqrs.core/mvnw
+cqrs-es/cqrs.core/mvnw.cmd
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.DS_Store
+
+### VS Code ###
+.vscode/
