@@ -9,7 +9,7 @@ import java.util.Date;
 import java.util.List;
 
 @Data
-public class ProcessWeeklySpendCommand extends BaseCommand {
+public class ProcessReportCommand extends BaseCommand {
     private String accountName;
     private String accountHolder;
     private CreditCardType creditCardType;
